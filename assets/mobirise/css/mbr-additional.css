@@ -1375,7 +1375,7 @@ section.lazy-placeholder:after {
 }
 .cid-rD77UFQSEG {
   padding-top: 15px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rD77UFQSEG h3 {
@@ -1387,6 +1387,9 @@ section.lazy-placeholder:after {
 }
 .cid-rD77UFQSEG .mbr-content-text {
   color: #2033a9;
+}
+.cid-rD77UFQSEG .panel-item {
+  background: #ffffff;
 }
 .cid-rD77UFQSEG .card {
   word-wrap: break-word;
